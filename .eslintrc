@@ -16,8 +16,7 @@
                 "allowString" : false,
                 "allowNumber" : false
             }
-        ],
-        "no-console": "warn"
+        ]
     },
     "ignorePatterns": ["src/**/*.test.ts", "src/frontend/generated/*"]
 }
